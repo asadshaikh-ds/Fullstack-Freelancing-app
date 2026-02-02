@@ -57,16 +57,20 @@ This project was built to demonstrate **practical industry-level skills**, not j
 > Screenshots of the application UI are provided below for better visual understanding.
 
 ### 🔹 Homepage
-![Homepage Screenshot]()
+ <img width="1917" height="908" alt="image" src="https://github.com/user-attachments/assets/02a90d09-5d75-46d4-bef6-2beb10ec85d6" />
+
 
 ### 🔹 Authentication
-![Login Screenshot] <img width="1900" height="910" alt="image" src="https://github.com/user-attachments/assets/afc3c74e-3678-4cc1-96f0-72e5f221211d" />
+ <img width="1900" height="910" alt="image" src="https://github.com/user-attachments/assets/afc3c74e-3678-4cc1-96f0-72e5f221211d" />
 
 
-### 🔹 Dashboard
-![Dashboard Screenshot](screenshots/dashboard.png)
+### 🔹 Profile page
+<img width="1897" height="912" alt="image" src="https://github.com/user-attachments/assets/51bf4ce4-f180-4b85-b113-65416371b2e3" />
 
-> *(Replace image paths with your actual screenshot file names)*
+
+<img width="1900" height="914" alt="image" src="https://github.com/user-attachments/assets/7f3a4866-8fc9-4286-8620-c55b19727dce" />
+
+
 
 ---
 
