@@ -60,8 +60,8 @@ This project was built to demonstrate **practical industry-level skills**, not j
 ![Homepage Screenshot]()
 
 ### 🔹 Authentication
-![Login Screenshot](<img width="1900" height="910" alt="image" src="https://github.com/user-attachments/assets/afc3c74e-3678-4cc1-96f0-72e5f221211d" />
-)
+![Login Screenshot] <img width="1900" height="910" alt="image" src="https://github.com/user-attachments/assets/afc3c74e-3678-4cc1-96f0-72e5f221211d" />
+
 
 ### 🔹 Dashboard
 ![Dashboard Screenshot](screenshots/dashboard.png)
